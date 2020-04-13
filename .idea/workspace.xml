@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b270c469-fc44-4909-a889-fb8eae13c9a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PROJECT_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hand/JdQualification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hand/JdQualification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/jd-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Test.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven3.6.3/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven3.6.3\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aDD5WBLVEpo2tz9duQNb8dfEng" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="jd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="WORKING_DIRECTORY" value="C:\Users\11079\IdeaProjects\jd" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <module name="jd" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JAR Application.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b270c469-fc44-4909-a889-fb8eae13c9a4" name="Default Changelist" comment="" />
+      <created>1586261087597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586261087597</updated>
+      <workItem from="1586261089046" duration="31926000" />
+      <workItem from="1586519494110" duration="5470000" />
+      <workItem from="1586598506701" duration="12254000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="38" key="#HTTP_Proxy" timestamp="1586262134375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="38" key="#HTTP_Proxy/0.0.1366.728@0.0.1366.728" timestamp="1586262134375" />
+    <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586343526471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586343526471" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586345245684">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586345245684" />
+    <state x="462" y="222" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586265589910">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="222" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1586265589910" />
+    <state x="712" y="107" key="#xdebugger.evaluate" timestamp="1586326500451">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="712" y="107" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1586326500451" />
+    <state width="446" height="438" key="DebuggerActiveHint" timestamp="1586333852850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="446" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1586333852850" />
+    <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1586599255166">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586599255166" />
+    <state width="1323" height="146" key="GridCell.Tab.0.bottom" timestamp="1586762309285">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="146" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586762309285" />
+    <state width="1323" height="146" key="GridCell.Tab.0.center" timestamp="1586762309284">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="146" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586762309284" />
+    <state width="1323" height="146" key="GridCell.Tab.0.left" timestamp="1586762309284">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="146" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586762309284" />
+    <state width="1323" height="146" key="GridCell.Tab.0.right" timestamp="1586762309285">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="146" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586762309285" />
+    <state width="1323" height="241" key="GridCell.Tab.1.bottom" timestamp="1586519355917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="241" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586519355917" />
+    <state width="1323" height="241" key="GridCell.Tab.1.center" timestamp="1586519355917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="241" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586519355917" />
+    <state width="1323" height="241" key="GridCell.Tab.1.left" timestamp="1586519355917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="241" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586519355917" />
+    <state width="1323" height="241" key="GridCell.Tab.1.right" timestamp="1586519355917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="241" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586519355917" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1586338640689">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1586338640689" />
+    <state x="184" y="5" key="SettingsEditor" timestamp="1586263734567">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586263734567" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1586343102156">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1586343102156" />
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1586598545973">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586598545973" />
+    <state x="359" y="0" width="786" height="728" key="find.popup" timestamp="1586612383635">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="0" width="786" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1586612383635" />
+    <state x="57" y="58" key="new project wizard" timestamp="1586599291782">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="58" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586599291782" />
+    <state x="275" y="22" key="scopes" timestamp="1586344043376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="scopes/0.0.1366.728@0.0.1366.728" timestamp="1586344043376" />
+  </component>
+</project>
